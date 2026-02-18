@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="SABBIR - Developer | CTF Player | Security Enthusiast" width="700"/>
+<img src="assets/banner.svg" alt="SABBIR - Developer | CTF Player | Security Enthusiast" width="800"/>
 
 <br>
 
