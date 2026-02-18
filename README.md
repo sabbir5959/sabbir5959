@@ -113,6 +113,19 @@ Kali Linux • Burp Suite • Wireshark • TShark • Binary Ninja • SQLMap �
 
 <div align="center">
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabbir5959/sabbir5959/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sabbir5959/sabbir5959/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🤝 Let's Connect
 
 <p>
