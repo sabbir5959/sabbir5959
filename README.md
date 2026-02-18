@@ -13,47 +13,31 @@
 - 💻 Full Stack Developer (React, Next.js, Node.js, Express)  
 - 📱 Flutter Mobile App Developer  
 - 🗄 Strong in PostgreSQL, Supabase, Oracle & SQL  
-- ⚡ Passionate about clean architecture & performance  
+- ⚡ Focused on clean architecture & performance  
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
-### 💻 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
-</p>
-
-### ⚙ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-</p>
-
-### 🗄 Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-### 📱 Mobile
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,nodejs,express,python,postgres,mysql,flutter,dart&theme=dark" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔹 Personal Portfolio (Next.js + Tailwind CSS)  
-- 🔹 Full Stack Web Applications (React + Express + PostgreSQL)  
-- 🔹 Flutter Mobile Applications with Supabase Integration  
+- 🔹 **Personal Portfolio** – Built with Next.js & Tailwind CSS  
+- 🔹 **Full Stack Web Apps** – React + Express + PostgreSQL  
+- 🔹 **Flutter Applications** – Supabase integrated mobile apps  
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sabbir5959&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=sabbir5959&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -61,7 +45,7 @@
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir5959&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -69,13 +53,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/md-sabbir55hossain/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:sabbir1808769@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://YOUR_PORTFOLIO">
+  <a href="https://portfolio-nd5z1ypff-sabbir1808769-gmailcoms-projects.vercel.app/">
     <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
 </p>
@@ -83,9 +67,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sabbir5959&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ---
 
-<h3 align="center">⭐ From YOUR_USERNAME</h3>
+<h3 align="center">⭐ From sabbir5959</h3>
