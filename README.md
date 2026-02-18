@@ -35,42 +35,12 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Who I Am
-
 I'm **Md. Sabbir Hossain**, a passionate **Full Stack Developer** and **CTF Player** from Bangladesh 🇧🇩. Currently pursuing my **BSc in Computer Science & Engineering**, I love building innovative applications and solving cybersecurity challenges.
 
 🔹 Building scalable web & mobile applications  
 🔹 Competing in CTF competitions  
 🔹 Exploring new technologies & frameworks  
 🔹 Contributing to open-source projects
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 What I Do
-
-**🌐 Full Stack Development**  
-Building modern web apps with React, Next.js, Node.js & Express
-
-**📱 Mobile Development**  
-Creating cross-platform apps using Flutter & Dart
-
-**🗄️ Database Design**  
-Working with PostgreSQL, MySQL, MongoDB & Supabase
-
-**🔐 Cybersecurity**  
-Participating in CTF competitions & ethical hacking
-
-**🐧 DevOps**  
-Linux enthusiast, Docker & Git for deployment
-
-</td>
-</tr>
-</table>
 
 </div>
 
