@@ -1,19 +1,26 @@
 <div align="center">
 
 ```ascii
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║   ░██████╗░█████╗░██████╗░██████╗░██╗██████╗░   ██╗░░██╗░█████╗░░██████╗    ║
-║   ██╔════╝██╔══██╗██╔══██╗██╔══██╗██║██╔══██╗   ██║░░██║██╔══██╗██╔════╝    ║
-║   ╚█████╗░███████║██████╦╝██████╦╝██║██████╔╝   ███████║██║░░██║╚█████╗░    ║
-║   ░╚═══██╗██╔══██║██╔══██╗██╔══██╗██║██╔══██╗   ██╔══██║██║░░██║░╚═══██╗    ║
-║   ██████╔╝██║░░██║██████╦╝██████╦╝██║██║░░██║   ██║░░██║╚█████╔╝██████╔╝    ║
-║   ╚═════╝░╚═╝░░╚═╝╚═════╝░╚═════╝░╚═╝╚═╝░░╚═╝   ╚═╝░░╚═╝░╚════╝░╚═════╝░    ║
-║                                                                               ║
-║            [+] Full Stack Developer | CTF Player | Pentester [+]             ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║     ░██████╗░█████╗░██████╗░██████╗░██╗██████╗░          ║
+║     ██╔════╝██╔══██╗██╔══██╗██╔══██╗██║██╔══██╗          ║
+║     ╚█████╗░███████║██████╦╝██████╦╝██║██████╔╝          ║
+║     ░╚═══██╗██╔══██║██╔══██╗██╔══██╗██║██╔══██╗          ║
+║     ██████╔╝██║░░██║██████╦╝██████╦╝██║██║░░██║          ║
+║     ╚═════╝░╚═╝░░╚═╝╚═════╝░╚═════╝░╚═╝╚═╝░░╚═╝          ║
+║                                                            ║
+║       [+] Developer | CTF Player | Security Enthusiast     ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔴-LIVE-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/⚡-CODING-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎯-CTF-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/🐧-LINUX-yellow?style=flat-square" />
+</p>
 
 </div>
 
@@ -31,7 +38,7 @@
 
 <div align="center">
 
-### `$ cat /etc/passwd | grep sabbir`
+### <img src="https://img.shields.io/badge/-%24%20cat%20%2Fetc%2Fpasswd%20%7C%20grep%20sabbir-00d9ff?style=for-the-badge&logo=linux&logoColor=black" />
 
 </div>
 
@@ -50,7 +57,7 @@ drwxr-xr-x 8 sabbir sabbir 4.0K Feb 18 2026 ..
 
 <div align="center">
 
-### `> whoami.txt`
+### <img src="https://img.shields.io/badge/-%3E%20whoami.txt-ff6b6b?style=for-the-badge&logo=json&logoColor=white" />
 
 </div>
 
@@ -96,9 +103,9 @@ class SabbirHossain:
 
 <div align="center">
 
-## `$ ./arsenal --show-weapons`
+## <img src="https://img.shields.io/badge/-%24%20.%2Farsenal%20--show--weapons-7209b7?style=for-the-badge&logo=hackthebox&logoColor=white" />
 
-### 🔴 Frontend Arsenal
+### <img src="https://img.shields.io/badge/🔴-FRONTEND%20ARSENAL-e63946?style=for-the-badge" />
 
 </div>
 
@@ -108,7 +115,7 @@ class SabbirHossain:
 
 <div align="center">
 
-### 🟢 Backend & Database
+### <img src="https://img.shields.io/badge/🟢-BACKEND%20%26%20DATABASE-2a9d8f?style=for-the-badge" />
 
 </div>
 
@@ -118,7 +125,7 @@ class SabbirHossain:
 
 <div align="center">
 
-### 🟡 Mobile & DevOps
+### <img src="https://img.shields.io/badge/🟡-MOBILE%20%26%20DEVOPS-f4a261?style=for-the-badge" />
 
 </div>
 
@@ -128,7 +135,7 @@ class SabbirHossain:
 
 <div align="center">
 
-### 🔵 Security & CTF Tools
+### <img src="https://img.shields.io/badge/🔵-SECURITY%20%26%20CTF%20TOOLS-4361ee?style=for-the-badge" />
 
 </div>
 
@@ -145,7 +152,7 @@ class SabbirHossain:
 
 <div align="center">
 
-## `⚔️ CTF_ACHIEVEMENTS.log`
+## <img src="https://img.shields.io/badge/⚔️-CTF__ACHIEVEMENTS.log-ff006e?style=for-the-badge&logo=target&logoColor=white" />
 
 </div>
 
@@ -168,7 +175,7 @@ class SabbirHossain:
 
 <div align="center">
 
-## `$ git log --graph --all`
+## <img src="https://img.shields.io/badge/-%24%20git%20log%20--graph%20--all-f77f00?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
@@ -178,7 +185,7 @@ class SabbirHossain:
 
 <div align="center">
 
-### 📡 System Statistics
+### <img src="https://img.shields.io/badge/📡-SYSTEM%20STATISTICS-06ffa5?style=for-the-badge" />
 
 </div>
 
@@ -189,7 +196,7 @@ class SabbirHossain:
 
 <div align="center">
 
-### 💻 Code Distribution
+### <img src="https://img.shields.io/badge/💻-CODE%20DISTRIBUTION-8338ec?style=for-the-badge" />
 
 </div>
 
@@ -201,7 +208,7 @@ class SabbirHossain:
 
 <div align="center">
 
-## `🚀 ./deploy_projects.sh`
+## <img src="https://img.shields.io/badge/🚀-.%2Fdeploy__projects.sh-ff4d6d?style=for-the-badge&logo=rocket&logoColor=white" />
 
 </div>
 
@@ -271,7 +278,7 @@ ctf_writeups = {
 
 <div align="center">
 
-## `📡 Connection Established`
+## <img src="https://img.shields.io/badge/📡-CONNECTION%20ESTABLISHED-00d4ff?style=for-the-badge&logo=signal&logoColor=white" />
 
 </div>
 
