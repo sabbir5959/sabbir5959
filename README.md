@@ -63,11 +63,11 @@ I'm **Md. Sabbir Hossain**, a passionate **Full Stack Developer** and **CTF Play
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-<img src="https://img.shields.io/badge/Nikto-8B0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TShark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Binary_Ninja-FF6AC1?style=for-the-badge&logo=ninja&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logo=lock&logoColor=white" />
+<img src="https://img.shields.io/badge/RockYou.txt-FFD700?style=for-the-badge&logo=file&logoColor=black" />
 
 </div>
 
@@ -105,7 +105,7 @@ I'm **Md. Sabbir Hossain**, a passionate **Full Stack Developer** and **CTF Play
 Web Exploitation • SQL Injection • Cross-Site Scripting • Cryptography • Forensics • Reverse Engineering • OSINT
 
 **🛠️ Tools Mastery:**  
-Burp Suite • Metasploit Framework • Wireshark • Nmap • John the Ripper • Hashcat • SQLMap • Nikto
+Kali Linux • Burp Suite • Wireshark • TShark • Binary Ninja • SQLMap • John the Ripper • RockYou.txt
 
 </div>
 
@@ -191,7 +191,7 @@ Participated in BUP CTF, AI Khwarizmi, Nahomcon International CTF
 Web Exploitation, Cryptography, Forensics, OSINT
 
 **🔓 Tools & Frameworks**  
-Kali Linux, Burp Suite, Metasploit, Wireshark, Nmap
+Kali Linux, Burp Suite, Wireshark, TShark, Binary Ninja, SQLMap, John the Ripper, RockYou.txt
 
 **📜 Certifications**  
 Ethical Hacking & Security Analysis - Completed
