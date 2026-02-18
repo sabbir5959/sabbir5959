@@ -1,19 +1,8 @@
 <div align="center">
 
-<pre>
-<span style="color:#00FF41">╔════════════════════════════════════════════════════════════╗</span>
-<span style="color:#00FF41">║</span>                                                            <span style="color:#00FF41">║</span>
-<span style="color:#00FF41">║</span>     <span style="color:#00D9FF">░██████╗</span><span style="color:#00FF41">░█████╗░</span><span style="color:#39FF14">██████╗░</span><span style="color:#00FF41">██████╗░</span><span style="color:#00D9FF">██╗</span><span style="color:#39FF14">██████╗░</span>          <span style="color:#00FF41">║</span>
-<span style="color:#00FF41">║</span>     <span style="color:#00D9FF">██╔════╝</span><span style="color:#00FF41">██╔══██╗</span><span style="color:#39FF14">██╔══██╗</span><span style="color:#00FF41">██╔══██╗</span><span style="color:#00D9FF">██║</span><span style="color:#39FF14">██╔══██╗</span>          <span style="color:#00FF41">║</span>
-<span style="color:#00FF41">║</span>     <span style="color:#00D9FF">╚█████╗░</span><span style="color:#00FF41">███████║</span><span style="color:#39FF14">██████╦╝</span><span style="color:#00FF41">██████╦╝</span><span style="color:#00D9FF">██║</span><span style="color:#39FF14">██████╔╝</span>          <span style="color:#00FF41">║</span>
-<span style="color:#00FF41">║</span>     <span style="color:#00D9FF">░╚═══██╗</span><span style="color:#00FF41">██╔══██║</span><span style="color:#39FF14">██╔══██╗</span><span style="color:#00FF41">██╔══██╗</span><span style="color:#00D9FF">██║</span><span style="color:#39FF14">██╔══██╗</span>          <span style="color:#00FF41">║</span>
-<span style="color:#00FF41">║</span>     <span style="color:#00D9FF">██████╔╝</span><span style="color:#00FF41">██║░░██║</span><span style="color:#39FF14">██████╦╝</span><span style="color:#00FF41">██████╦╝</span><span style="color:#00D9FF">██║</span><span style="color:#39FF14">██║░░██║</span>          <span style="color:#00FF41">║</span>
-<span style="color:#00FF41">║</span>     <span style="color:#00D9FF">╚═════╝░</span><span style="color:#00FF41">╚═╝░░╚═╝</span><span style="color:#39FF14">╚═════╝░</span><span style="color:#00FF41">╚═════╝░</span><span style="color:#00D9FF">╚═╝</span><span style="color:#39FF14">╚═╝░░╚═╝</span>          <span style="color:#00FF41">║</span>
-<span style="color:#00FF41">║</span>                                                            <span style="color:#00FF41">║</span>
-<span style="color:#00FF41">║</span>       <span style="color:#FF0080">[+]</span> <span style="color:#00D9FF">Developer</span> <span style="color:#00FF41">|</span> <span style="color:#FF0080">CTF Player</span> <span style="color:#00FF41">|</span> <span style="color:#39FF14">Security Enthusiast</span>     <span style="color:#00FF41">║</span>
-<span style="color:#00FF41">║</span>                                                            <span style="color:#00FF41">║</span>
-<span style="color:#00FF41">╚════════════════════════════════════════════════════════════╝</span>
-</pre>
+<img src="assets/banner.svg" alt="SABBIR - Developer | CTF Player | Security Enthusiast" width="700"/>
+
+<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=650&lines=root%40sabbir~%24+whoami;%3E+Full+Stack+Developer;%3E+CTF+Player;%3E+React+%7C+Next.js+%7C+Flutter+%7C+Node.js;%3E+PostgreSQL+%7C+Python+%7C+Docker;root%40sabbir~%24+./hack_the_planet.sh" alt="Typing SVG" />
