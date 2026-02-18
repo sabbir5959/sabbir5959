@@ -52,7 +52,7 @@ I'm **Md. Sabbir Hossain**, a passionate **Full Stack Developer** and **CTF Play
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,nodejs,express,python,flask,postgres,mysql,mongodb,supabase,redis,flutter,dart,firebase,androidstudio,docker,linux,git,github,bash,vscode,figma,postman&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,nodejs,express,python,flask,postgres,mysql,supabase,flutter,dart,firebase,androidstudio,linux,git,github,bash,vscode,figma,postman&theme=dark&perline=10" />
 
 <br><br>
 
@@ -108,33 +108,6 @@ Web Exploitation • SQL Injection • Cross-Site Scripting • Cryptography •
 Kali Linux • Burp Suite • Wireshark • TShark • Binary Ninja • SQLMap • John the Ripper • RockYou.txt
 
 </div>
-
----
-
-<div align="center">
-
-##  GitHub Statistics
-
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabbir5959&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&title_color=00FF41" width="95%" alt="Contribution Graph" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabbir5959&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&border_radius=10" height="180" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=sabbir5959&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border_radius=10" height="180" alt="GitHub Streak" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir5959&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_radius=10&langs_count=8" height="190" alt="Top Languages" />
-</p>
 
 ---
 
