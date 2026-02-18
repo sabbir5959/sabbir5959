@@ -16,7 +16,7 @@
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=650&lines=root%40sabbir~%24+whoami;%3E+Full+Stack+Developer;%3E+CTF+Player+%7C+Security+Researcher;%3E+React+%7C+Next.js+%7C+Flutter+%7C+Node.js;%3E+PostgreSQL+%7C+Python+%7C+Docker;root%40sabbir~%24+./hack_the_planet.sh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=650&lines=root%40sabbir~%24+whoami;%3E+Full+Stack+Developer;%3E+CTF+Player;%3E+React+%7C+Next.js+%7C+Flutter+%7C+Node.js;%3E+PostgreSQL+%7C+Python+%7C+Docker;root%40sabbir~%24+./hack_the_planet.sh" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -78,7 +78,6 @@ I'm **Md. Sabbir Hossain**, a passionate **Full Stack Developer** and **CTF Play
 ## 🏆 CTF Achievements & Competitions
 
 <img src="https://img.shields.io/badge/CTF-Player-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/Security-Researcher-00FF00?style=for-the-badge&logo=hackaday&logoColor=white" />
 <img src="https://img.shields.io/badge/Ethical-Hacker-FFA500?style=for-the-badge&logo=kalilinux&logoColor=white" />
 
 </div>
