@@ -33,26 +33,18 @@
 
 <div align="center">
 
-```python
-class SabbirHossain:
-    def __init__(self):
-        self.name = "Md. Sabbir Hossain"
-        self.role = "Full Stack Developer & CTF Player"
-        self.education = "BSc in Computer Science & Engineering"
-        self.location = "Bangladesh 🇧🇩"
-        
-    def current_work(self):
-        return {
-            "web": ["React", "Next.js", "Node.js", "Express"],
-            "mobile": ["Flutter", "Dart"],
-            "database": ["PostgreSQL", "MySQL", "Supabase"],
-            "security": ["CTF", "Pentesting", "Ethical Hacking"],
-            "devops": ["Linux", "Docker", "Git"]
-        }
-    
-    def hack_the_planet(self):
-        return "while True: capture_flags() && build_apps()"
-```
+### 👨‍💻 About Me
+
+**Md. Sabbir Hossain** | Full Stack Developer & CTF Player  
+📚 BSc in Computer Science & Engineering  
+🌍 Bangladesh 🇧🇩
+
+💼 **Specializations:**  
+🌐 Full Stack Web Development (React, Next.js, Node.js)  
+📱 Mobile App Development (Flutter, Dart)  
+🗄️ Database Management (PostgreSQL, MySQL, Supabase)  
+🔐 Cybersecurity & CTF Competitions  
+🐧 Linux & DevOps (Docker, Git)
 
 </div>
 
@@ -91,20 +83,21 @@ class SabbirHossain:
 
 </div>
 
-```diff
-╔═══════════════════════════════════════════════════════════════════╗
-║                  🏆 CAPTURE THE FLAG SCOREBOARD 🏆                ║
-╠═══════════════════════════════════════════════════════════════════╣
-+ [SUCCESS] 🥇 9th Place         →  BUP CTF 2025
-+ [SUCCESS] 🥈 22nd Place        →  AI Khwarizmi CTF
-+ [SUCCESS] 🌍 250/3000+ Teams   →  Nahomcon International CTF 2025
-+ [SUCCESS] 🧠 85th Place        →  MIST IEECTON 2023
-+ [SUCCESS] 🔐 Certificate       →  Ethical Hacking & Security Analysis
-╚═══════════════════════════════════════════════════════════════════╝
+<br>
 
-[*] Categories: Web Exploitation | Cryptography | Forensics | Reverse Engineering
-[*] Flag Status: ████████████████████ 85% Captured
-```
+<div align="center">
+
+| 🏆 Achievement | 🎯 Competition | 📅 Year |
+|:---:|:---:|:---:|
+| 🥇 **9th Place** | BUP CTF | 2025 |
+| 🥈 **22nd Place** | AI Khwarizmi CTF | 2025 |
+| 🌍 **250/3000+ Teams** | Nahomcon International CTF | 2025 |
+| 🧠 **85th Place** | MIST IEECTON | 2023 |
+| 🔐 **Certificate** | Ethical Hacking & Security Analysis | Completed |
+
+**Categories:** Web Exploitation • Cryptography • Forensics • Reverse Engineering
+
+</div>
 
 ---
 
@@ -112,86 +105,59 @@ class SabbirHossain:
 
 <img src="https://img.shields.io/badge/🚀-PROJECTS-3B82F6?style=for-the-badge&logo=rocket&logoColor=white" />
 
-<br><br>
+</div>
+
+<br>
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
-<img src="https://img.shields.io/badge/🌐-FULL_STACK_WEB_APPS-06B6D4?style=for-the-badge" />
+### 🌐 Full Stack Web Applications
 
-```javascript
-const webApps = {
-  frontend: "React + Next.js 14",
-  backend: "Node.js + Express",
-  database: "PostgreSQL + Supabase",
-  styling: "Tailwind CSS",
-  hosting: "Vercel + Railway",
-  features: [
-    "Authentication & Authorization",
-    "Real-time Updates",
-    "RESTful APIs",
-    "Responsive Design"
-  ]
-}
-```
+**Portfolio Website** | TypeScript, Next.js  
+Modern portfolio with Tailwind CSS, dark/light mode, and responsive design
+
+**EnviroLink** | JavaScript, React  
+Environmental platform with real-time data integration
+
+**RAG-AI** | JavaScript, AI Integration  
+Retrieval-Augmented Generation AI application
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
-<img src="https://img.shields.io/badge/📱-MOBILE_APPS-10B981?style=for-the-badge" />
+### 📱 Mobile Applications
 
-```dart
-class MobileApps {
-  final String framework = 'Flutter';
-  final String language = 'Dart';
-  final List<String> backend = [
-    'Supabase',
-    'Firebase'
-  ];
-  final List<String> stateManagement = [
-    'Provider',
-    'Riverpod',
-    'Bloc'
-  ];
-  final String platform = 'iOS & Android';
-}
-```
+**VenueVista** | Flutter, Dart  
+Venue booking and management mobile app for iOS & Android
+
+**Feature-Rich Apps**  
+State management with Provider/Riverpod, Supabase backend integration
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
-<img src="https://img.shields.io/badge/🎨-PORTFOLIO_WEBSITE-8B5CF6?style=for-the-badge" />
+### 💻 Software Development
 
-```typescript
-interface Portfolio {
-  tech: "Next.js 14 (App Router)",
-  styling: "Tailwind CSS",
-  animations: "Framer Motion",
-  theme: "Dark/Light Mode",
-  responsive: true,
-  seo: "Optimized",
-  performance: "95+ Lighthouse Score"
-}
-```
+**Legal Enforcement System** | Java  
+Enterprise-level legal case management application
+
+**Full Stack Apps**  
+React + Node.js + Express + PostgreSQL stack
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
-<img src="https://img.shields.io/badge/🔐-CTF_WRITEUPS-EF4444?style=for-the-badge" />
+### 🔐 CTF & Security
 
-```python
-ctf_knowledge = {
-    "web": ["XSS", "SQLi", "CSRF", "SSRF"],
-    "crypto": ["RSA", "AES", "Hash Cracking"],
-    "forensics": ["Steganography", "Memory Analysis"],
-    "pwn": ["Buffer Overflow", "ROP"],
-    "reverse": ["Ghidra", "IDA", "Binary Analysis"],
-    "osint": ["Recon", "Social Engineering"]
-}
-```
+**Competitions:** BUP CTF, AI Khwarizmi, Nahomcon  
+**Skills:** Web Exploitation, Cryptography, Forensics  
+**Tools:** Kali Linux, Burp Suite, Metasploit, Wireshark
+
+**Ethical Hacking Course** - Completed
 
 </td>
 </tr>
@@ -247,36 +213,13 @@ ctf_knowledge = {
 
 <div align="center">
 
-```bash
-┌──(root@github)-[~/sabbir5959]
-└─$ echo "Thanks for visiting my profile!"
+### Thanks for visiting my profile! 👋
 
- _   _                _                       
-| | | |               | |                      
-| |_| |__   __ _ _ __ | | _____   _  ___  _   _ 
-| __| '_ \ / _` | '_ \| |/ / | | | |/ _ \| | | |
-| |_| | | | (_| | | | |   <| |_| | | (_) | |_| |
- \__|_| |_|\__,_|_| |_|_|\_\\__, |  \___/ \__,_|
-                             __/ |              
-                            |___/               
+<img src="https://komarev.com/ghpvc/?username=sabbir5959&label=Profile%20Views&color=00ff00&style=for-the-badge" />
 
-[+] Profile Visit Count:
-```
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sabbir5959&label=ACCESS+GRANTED&color=00ff00&style=for-the-badge" />
-
-```bash
-└─$ exit
-Connection closed by foreign host.
-```
-
-</div>
-
----
-
-<div align="center">
-  
-### `// Happy Hacking! 👨‍💻`
+**"Code • Hack • Build • Repeat"** 🚀
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
