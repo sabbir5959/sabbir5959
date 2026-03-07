@@ -79,9 +79,9 @@ I'm **Md. Sabbir Hossain**, a **Full Stack Developer** and **CTF Player** from B
 | 🏅 Rank | 🎯 Competition | 📅 Year | 🌟 Highlight |
 |:---:|:---|:---:|:---|
 | **🥇 9th** | BUP CTF | 2025 | Top 10 Finish |
-| **🥈 22nd** | AI Khwarizmi CTF | 2025 | Strong Performance |
+| **🥈 22nd** | Al-Khwarizmi CTF | 2025 | Strong Performance |
 | **🌍 250/3000+** | Nahomcon International | 2025 | Top 10% Globally |
-| **🧠 85th** | MIST IEECTON | 2023 | Top 100 |
+| **🧠 85th** | MIST LEETCON | 2023 | Top 100 |
 | **🔐 Certified** | Ethical Hacking & Security | ✓ | Course Completed |
 
 </div>
